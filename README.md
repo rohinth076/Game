@@ -16,3 +16,23 @@ Using the below comment you will run this code.
 3.FIRST USER TAKE MATCH STICK COUNT OF 1 TO 4
 4.WHO TAKE LAST MATCH STICK IS LOSSER
 ```
+
+
+## 2. Tic-Tac-Toe
+
+Using the below comment you will run this code.
+
+```
+> For compile : javac AppGame.java
+
+> For Run : appletviewer AppGame.java
+
+Use java version 7 or 8 
+```
+
+### Rules
+```
+1. This game is between two users
+2. The first user is **X** and second user is **O**
+3. Regular rules of **XO**
+```
