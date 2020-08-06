@@ -42,7 +42,7 @@ public class AppGame extends Applet implements ActionListener
 				b[i][j].setFont(f);
 		t1.setFont(f);
 		b1.setFont(new Font("TORCH",Font.BOLD,20));
-
+		setBackground(new Color(0,128,128));
 		/*Add ActionListener to button*/
 		for(int i=0;i<3;i++)
 			for(int j=0;j<3;j++)
