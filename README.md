@@ -60,3 +60,4 @@ Use java version 7 or 8
     iii) paper vs scissor --> scissor wins
 3. Based on the above situation winner will be decide
 ```
+![](image/3.png)
