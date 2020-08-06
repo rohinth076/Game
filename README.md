@@ -37,7 +37,7 @@ Use java version 7 or 8
 2. The first user is X and second user is O
 ```
 
-![](image/2.png = 500x500)
+![](image/2.png)
 
 
 ## 3. Stone-Paper-scissor
