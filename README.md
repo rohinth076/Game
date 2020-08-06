@@ -36,3 +36,25 @@ Use java version 7 or 8
 2. The first user is X and second user is O
 3. Regular rules of XO
 ```
+
+
+## 3. Stone-Paper-scissor
+
+Using the below comment you will run this code.
+
+```
+> For compile : javac Game.java
+
+> For Run : java Game
+
+Use java version 7 or 8 
+```
+
+### Rules
+```
+1. This game is between user and computer
+2.  i)   Stone vs paper   --> paper wins
+    ii)  Stone vs scissor --> stonewins
+    iii) paper vs scissor --> scissor wins
+3. Based on the above situation winner will be decide
+```
