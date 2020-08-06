@@ -35,7 +35,6 @@ Use java version 7 or 8
 ```
 1. This game is between two users
 2. The first user is X and second user is O
-3. Regular rules of XO
 ```
 
 ![](image/2.png)
