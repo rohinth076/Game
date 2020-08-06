@@ -4,7 +4,7 @@ This repository contains Some **small games** using java applet.
 
 ## 1. Matchsticks
 
-Using the below comment you will run the code.
+Using the below comment you will run this code.
 ```
 > Using any C or Cpp compiler you will run this code . Example: Using Turbo C++
 ```
