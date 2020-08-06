@@ -30,6 +30,8 @@ Using the below comment you will run this code.
 Use java version 7 or 8 
 ```
 
+![](image/2.png)
+
 ### Rules
 ```
 1. This game is between two users
