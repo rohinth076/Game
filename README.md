@@ -30,7 +30,6 @@ Using the below comment you will run this code.
 Use java version 7 or 8 
 ```
 
-![](image/2.png)
 
 ### Rules
 ```
@@ -38,6 +37,8 @@ Use java version 7 or 8
 2. The first user is X and second user is O
 3. Regular rules of XO
 ```
+
+![](image/2.png)
 
 
 ## 3. Stone-Paper-scissor
@@ -60,3 +61,4 @@ Use java version 7 or 8
     iii) paper vs scissor --> scissor wins
 3. Based on the above situation winner will be decide
 ```
+![](image/3.png)
